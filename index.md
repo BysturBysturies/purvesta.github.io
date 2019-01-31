@@ -3,7 +3,7 @@
 I am a student at Boise State University studying Computer Science. My real passion lies in Computer Security!
 I run an event every year with some friends of mine known as a Computer Science/Security CTF (Capture The Flag)
 
-Feel Free to check it out [here](https://www.neverlanctf.com)
+Feel Free to check it out [here](https://github.com/purvesta/purvesta.github.io/blob/master/lol)
 
 ### Projects
 
